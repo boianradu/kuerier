@@ -6,8 +6,6 @@ application is implemented with **Go** and
 on the backend side and **React** on the front end
 side. **MongoDB** is used as a database.
 
-![Showcase](showcase.gif)
-
 
 ## System requirements
 You need to have [Docker](https://www.docker.com) and
